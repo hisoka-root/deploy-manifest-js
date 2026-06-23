@@ -1,4 +1,4 @@
-# deploy-manifest
+# deploy-manifest-js
 
 Parse, validate, and serialize [Deploy Manifest Specification](https://github.com/hisoka-root/deploy-manifest) files.
 Works in Node, Bun, Deno, and browsers.
